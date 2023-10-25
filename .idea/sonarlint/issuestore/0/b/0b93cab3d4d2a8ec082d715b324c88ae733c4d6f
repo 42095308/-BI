@@ -1,0 +1,8 @@
+
+b
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(×„†ü8Áß°¾³1
+^	java:S125£"<This block of commented-out lines of code should be removed.(ÇüÅ¾øÿÿÿÿ8ÊÁ³1
+\
+java:S1128":Remove this unused import 'javafx.scene.control.TableRow'.(ð¼ãöúÿÿÿÿ8¹‚º¾³1
+E
+java:S10682"(Remove this unused "GSON" private field.(×„†ü8Îß°¾³1

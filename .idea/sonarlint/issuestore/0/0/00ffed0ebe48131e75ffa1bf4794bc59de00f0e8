@@ -1,0 +1,17 @@
+
+c
+java:S1192ú"GDefine a constant instead of duplicating this literal "postId" 4 times.(ÚˆÂŒşÿÿÿÿ
+a
+java:S1192v"FDefine a constant instead of duplicating this literal "title" 4 times.(¿¥áÿÿÿÿÿ
+c
+java:S1192"GDefine a constant instead of duplicating this literal "userId" 6 times.(üàÕÆúÿÿÿÿ
+c
+java:S1192v"HDefine a constant instead of duplicating this literal "content" 4 times.(¿¥áÿÿÿÿÿ
+[
+java:S1124<"EReorder the modifiers to comply with the Java Language Specification.(×„†ü
+i
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ôÄªñ
+>
+java:S1068<"(Remove this unused "GSON" private field.(×„†ü
+İ
+java:S6541‰"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 83 to 64, Complexity from 15 to 14, Nesting Level from 4 to 2, Number of Variables from 29 to 6.(ôÄªñ
